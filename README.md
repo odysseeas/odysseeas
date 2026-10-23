@@ -6,9 +6,11 @@ Informatics student at the **University of Piraeus** (4th year, Software Technol
 - This semester: image analysis (computer vision), speech and audio processing, Android development
 - Open to **internship opportunities in data / ML** for spring 2027
 
-### Featured project
+### Selected coursework
 
-**[Who Is The Killer?](https://github.com/odysseeas/who-is-the-killer)**: identifying which of 8 serial killers committed each crime, with scikit-learn. Compares Naive Bayes, Logistic Regression, an SVM and an MLP, explores the data with PCA and k-means, and looks at why 94.7% accuracy still hides the hardest classes.
+- **Who Is The Killer?** (Pattern Recognition): classifying crimes by serial killer with scikit-learn. Compared Naive Bayes, Logistic Regression, an SVM and an MLP (95.6% accuracy on held-out data), handled class imbalance with balanced class weights, and explored the data with PCA and k-means.
+
+Some coursework repositories are private while the assignments are still in use. I'm happy to share them on request.
 
 ### Tools I've used in projects
 
@@ -16,3 +18,7 @@ Informatics student at the **University of Piraeus** (4th year, Software Technol
 **ML & data:** scikit-learn · pandas · NumPy · matplotlib · seaborn · OpenCV · sentence-transformers  
 **Databases:** PostgreSQL · MySQL  
 **Tools:** Git · VS Code · Visual Studio · Eclipse · Google Colab
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/odysseas-tamvakos-044514281/)
