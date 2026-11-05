@@ -19,7 +19,7 @@ Some coursework repositories are private while the assignments are still in use.
 ### Tools I've used in projects
 
 **Languages:** Python · SQL · C# · Java · C · JavaScript · HTML/CSS  
-**ML & data:** scikit-learn · sentence-transformers · PCA · clustering · NLP  
+**ML & data:** scikit-learn · pandas · NumPy · matplotlib · seaborn · sentence-transformers · PCA · clustering · NLP  
 **Databases:** PostgreSQL · MySQL  
 **Tools:** Git · VS Code · Visual Studio · Eclipse · Google Colab
 
