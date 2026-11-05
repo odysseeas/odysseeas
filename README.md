@@ -10,11 +10,9 @@ Final-year Informatics student at the **University of Piraeus** (Software Engine
 
 ### Selected projects
 
-- **Who Is The Killer?** (Pattern Recognition) – classifying crimes by serial killer with scikit-learn. Compared Naive Bayes, Logistic Regression, an SVM and an MLP (95.6% accuracy on held-out data), handled class imbalance with balanced class weights, and explored the data with PCA and k-means.
-- **Kitchen NLP: from SHRDLU to Transformers** – a natural-language understanding system built in three stages: regex parser → TF-IDF + SVM → semantic matching with sentence-transformer embeddings (team of 2).
-- **PostgreSQL query optimization** – tuned join/aggregation queries on ~2M-row UK road-safety tables with EXPLAIN ANALYZE: indexes, memory and parallel-worker tuning (1,553 → 668 ms on the main query) and range partitioning with partition pruning.
-
-Some coursework repositories are private while the assignments are still in use. I'm happy to share them on request.
+- **[Who Is The Killer?](https://github.com/odysseeas/who-is-the-killer)** (Pattern Recognition) – classifying crimes by serial killer with scikit-learn. Compared Naive Bayes, Logistic Regression, an SVM and an MLP (95.6% accuracy on held-out data), handled class imbalance with balanced class weights, and explored the data with PCA and k-means.
+- **[PostgreSQL query optimization](https://github.com/odysseeas/postgresql-query-optimization)** – tuned join/aggregation queries on ~2M-row UK road-safety tables with EXPLAIN ANALYZE: indexes, memory and parallel-worker tuning (1,553 → 668 ms on the main query) and range partitioning with partition pruning.
+- **Kitchen NLP: from SHRDLU to Transformers** – a natural-language understanding system built in three stages: regex parser → TF-IDF + SVM → semantic matching with sentence-transformer embeddings (team of 2). Code available on request.
 
 ### Tools I've used in projects
 
